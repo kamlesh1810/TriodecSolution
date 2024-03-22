@@ -1,0 +1,2 @@
+# TriodecSolution
+Assignment
